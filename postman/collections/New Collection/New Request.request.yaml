@@ -1,0 +1,16 @@
+$kind: http-request
+name: New Request
+url: http://localhost:8080/students/save
+method: POST
+body:
+  type: json
+  content: "{ \r
+
+    \    \"nom\": \"LACHGAR\", \r
+
+    \    \"prenom\": \"Mohamed\",\r
+
+    \     \"dateNaissance\": \"1985-09-01\" \r
+
+    \    }"
+order: 1773179817049
