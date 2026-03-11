@@ -1,4 +1,11 @@
 # Student Management API
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 ## Description
 
 API REST pour la gestion des étudiants développée avec Spring Boot.
@@ -61,7 +68,9 @@ https://github.com/user-attachments/assets/13df2792-ec9f-4dbd-933b-b79d9903d748
 
 https://github.com/user-attachments/assets/17d742ea-cc9c-4808-a57b-986934e37586
 
+### Test Vérification après suppression
 
+https://github.com/user-attachments/assets/a7dc7b8a-443b-4e66-a9b3-a9dea09e8bea
 
 
 
