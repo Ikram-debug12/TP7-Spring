@@ -5,7 +5,8 @@ API REST pour la gestion des étudiants développée avec Spring Boot.
 
 ## Tests Unitaires - StudentController
 
-<img width="777" height="395" alt="Capture d&#39;écran 2026-03-10 222144" src="https://github.com/user-attachments/assets/f1022353-8262-48a1-97dc-2bfc0cbd1d6d" />
+<img width="1260" height="337" alt="Capture d&#39;écran 2026-03-10 230344" src="https://github.com/user-attachments/assets/04e63ab2-6961-4a64-a0ca-378079b14a0a" />
+
 
 ## Test POST - Ajouter un étudiant
 
@@ -41,5 +42,26 @@ API REST pour la gestion des étudiants développée avec Spring Boot.
 
 ## Tests Swagger UI
 ### Test d'ajout d'un étudiant
+
+https://github.com/user-attachments/assets/174ed08d-f395-4df9-b874-59eaf072c9f8
+
+### Vérification après ajout
+
+https://github.com/user-attachments/assets/54bc9eb8-3f5e-4aeb-8fd3-82a9f062ba4b
+
+### Test Comptage
+
+https://github.com/user-attachments/assets/ffdb13ef-ad65-4255-af72-c10fa60d5660
+
+### Test Statistiques par année
+
+https://github.com/user-attachments/assets/13df2792-ec9f-4dbd-933b-b79d9903d748
+
+### Test de suppression (ID 5)
+
+https://github.com/user-attachments/assets/17d742ea-cc9c-4808-a57b-986934e37586
+
+
+
 
 
